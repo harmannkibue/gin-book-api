@@ -11,4 +11,4 @@ read COMMIT
 
 git add .
 git commit -m "$COMMIT"
-git push origin ${BRANCH}
+git push origin "${BRANCH}"
